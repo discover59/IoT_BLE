@@ -1,0 +1,8 @@
+*.iml
+/python/.idea
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/rpi3-system-information
+/node_modules
+/.idea
